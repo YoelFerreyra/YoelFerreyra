@@ -49,7 +49,7 @@ Otros:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@👽)
 </div>
 
-#🛠 Tecnologías
+<h2>🛠 Tecnologías</h2>
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
@@ -73,7 +73,7 @@ Otros:
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron">
 <p/>
 
-#Otros:
+<h2>Otros:</h2>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
