@@ -7,14 +7,6 @@ Me considero un desarrollador con gran capacidad de resolver problemas, y, adem�
 
 Me especializo en crear páginas web y puedo trabajar tanto en el front-end como en el back-end. Actualmente cuento con experiencia creando páginas web con JavaScript, React, NodeJs, Express, PostgreSQL.
 
-🛠 Tecnologías
-Conocimiento en Front-End:
-*HTML5
-*CSS3
-*JavaScript
-*React
-*Redux
-
 Conocimiento en Back-End:
 *Node JS
 *Express
@@ -56,6 +48,7 @@ Otros:
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@👽)
 </div>
 
+🛠 Tecnologías
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
