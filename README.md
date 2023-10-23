@@ -1,4 +1,4 @@
-Hola soy Eric Yoel Ferreyra, Full Stack Developer 👋
+<h1 align="center">Hola soy Eric Yoel Ferreyra, Full Stack Developer 👋</h1>
 
 📖 Sobre mi
 Soy un Desarrollador argentino, de 28 años. Poseo la capacidad de realizar proyectos web que sean escalables y modularizables para así construir en equipo. Me gusta estar en constante aprendizaje de nuevas tecnologías, dedicándole las horas que sean necesarias, que es programar y por sobre todo, trabajar junto a un equipo.
@@ -20,8 +20,9 @@ Otros:
 *Heroku
 *Vercel
 
-<h1 align="center">Github Metrics </h1><p align="center">
-<img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
+<h1 align="center">Github Metrics </h1>
+<p align="center">
+  <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bastndev&theme=github_dark" />
 </p>
 
 <div align="center">  
