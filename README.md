@@ -1,7 +1,6 @@
 <h1 align="center">Hola soy Eric Yoel Ferreyra, Full Stack Developer 👋</h1>
 
-📖 Sobre mi
-Soy un Desarrollador argentino, de 28 años. Poseo la capacidad de realizar proyectos web que sean escalables y modularizables para así construir en equipo. Me gusta estar en constante aprendizaje de nuevas tecnologías, dedicándole las horas que sean necesarias, que es programar y por sobre todo, trabajar junto a un equipo.
+Soy Desarrollador argentino, de 28 años. Poseo la capacidad de realizar proyectos web que sean escalables y modularizables para así construir en equipo. Me gusta estar en constante aprendizaje de nuevas tecnologías, dedicándole las horas que sean necesarias y por sobre todo trabajar junto a un equipo.
 
 Me considero un desarrollador con gran capacidad de resolver problemas, y además muy curioso, con muchas ganas de lograr solucionar cualquier conflicto que se me aparezca en frente. Me gusta enseñar y por sobre todo aprender de los demás.
 
