@@ -14,9 +14,9 @@ Conocimiento en Back-End:
 *PostgreSQL
 *Sequelize
 
-![YoelFerreyra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoelFerreyra&theme=vue-dark&hide_border=true)
-![YoelFerreyra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoelFerreyra&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![YoelFerreyra's Stats](https://github-readme-stats.vercel.app/api?username=YoelFerreyra&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![YoelFerreyra's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoelFerreyra&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![YoelFerreyra's Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoelFerreyra&theme=tokyonight&hide_border=true)
+![YoelFerreyra's Stats](https://github-readme-stats.vercel.app/api?username=YoelFerreyra&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 <h1 align="center">Github Metrics </h1>
 <p align="center">
