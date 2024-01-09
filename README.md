@@ -23,12 +23,9 @@ Me especializo en crear páginas web y puedo trabajar tanto en el front-end como
 
 <div align="center">
 <div align="center">
-<a href="https://facebook.com/👽" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://twitter.com/👽" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/👽/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:👽@gmail.com)](mailto:👽@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-yoel-ferreyra-ab5b981bb/)
+[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yoelferreyra24@gmail.com)](mailto:yoelferreyra24@gmail.com)
 
 <h2>🛠 Tecnologías</h2>
 <p align="center">
