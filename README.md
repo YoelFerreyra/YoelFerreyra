@@ -6,13 +6,6 @@ Me considero un desarrollador con gran capacidad de resolver problemas, y ademá
 
 Me especializo en crear páginas web y puedo trabajar tanto en el front-end como en el back-end. Actualmente cuento con experiencia creando páginas web con JavaScript, React, NodeJs, Express, PostgreSQL, React Native, tailwind.
 
-Conocimiento en Back-End:
-*Node JS
-*Express
-*SQL
-*PostgreSQL
-*Sequelize
-
 <h1 align="center">Github Metrics </h1>
 <p align="center">
   <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoelFerreyra&theme=github_dark" />
