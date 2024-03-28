@@ -64,6 +64,6 @@ Me especializo en crear páginas web y puedo trabajar tanto en el front-end como
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count 👽 </b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{👽}/count.svg" /></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YoelFerreyra}/count.svg" /></p>
 <br>
 </div>
