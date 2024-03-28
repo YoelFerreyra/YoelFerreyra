@@ -1,10 +1,10 @@
-<h1 align="center">Hola soy Eric Yoel Ferreyra, Full Stack Developer 👋</h1>
+<h1 align="center">Hi, I'm Eric Yoel Ferreyra, Full Stack Developer 👋</h1>
 
-Soy Desarrollador argentino, de 28 años. Poseo la capacidad de realizar proyectos web que sean escalables y modularizables para así construir en equipo. Me gusta estar en constante aprendizaje de nuevas tecnologías, dedicándole las horas que sean necesarias y por sobre todo trabajar junto a un equipo.
+I am an Argentine Developer, 28 years old. I can carry out web projects that are scalable and modularizable to build as a team. I like to be constantly learning new technologies, dedicating the hours that are necessary and above all working with a team.
 
-Me considero un desarrollador con gran capacidad de resolver problemas, y además muy curioso, con muchas ganas de lograr solucionar cualquier conflicto que se me aparezca en frente. Me gusta enseñar y por sobre todo aprender de los demás.
+I consider myself a developer with a great ability to solve problems, and also very curious, and eager to solve any conflict that arises in front of me. I like to teach and above all learn from others.
 
-Me especializo en crear páginas web y puedo trabajar tanto en el front-end como en el back-end. Actualmente cuento con experiencia creando páginas web con JavaScript, React, NodeJs, Express, PostgreSQL, React Native, tailwind.
+I specialize in creating web pages and can work on both the front-end and back-end. I currently have experience creating web pages with JavaScript, React, NodeJs, Express, PostgreSQL, React Native, and tailwind.
 
 <h1 align="center">Github Metrics </h1>
 <p align="center">
@@ -27,7 +27,7 @@ Me especializo en crear páginas web y puedo trabajar tanto en el front-end como
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-yoel-ferreyra-ab5b981bb/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yoelferreyra24@gmail.com)](mailto:yoelferreyra24@gmail.com)
 
-<h2>🛠 Tecnologías</h2>
+<h2>🛠 Tecnologies</h2>
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="48" title="React.Js"> 
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="48" title="Next.Js">  
@@ -50,7 +50,7 @@ Me especializo en crear páginas web y puedo trabajar tanto en el front-end como
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="48" title="Electron">
 <p/>
 
-<h2>Otros:</h2>
+<h2>Others:</h2>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Netlify-Dark.svg" width="48" title="Netlify">  
@@ -60,10 +60,3 @@ Me especializo en crear páginas web y puedo trabajar tanto en el front-end como
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg" width="48" title="StackOverFlow">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
-
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count 👽 </b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YoelFerreyra}/count.svg" /></p>
-<br>
-</div>
