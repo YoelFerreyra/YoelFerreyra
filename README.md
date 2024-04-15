@@ -39,10 +39,8 @@ I specialize in creating web pages and can work on both the front-end and back-e
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="48" title="MUI">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg" width="48" title="Sass">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="48">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/StyledComponents.svg" width="48" title="StyledComponents">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" width="48"  title="Vite">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="48" title="MongoDB">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" width="48" title="Firebase">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="48" title="MongoDB">
 <img src="" width="48" title="">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="NodeJs">
 <p/>
