@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Eric Yoel Ferreyra, Full Stack Developer 👋</h1>
 
-I am an Argentine Developer, 28 years old. I can carry out web projects that are scalable and modularizable to build as a team. I like to be constantly learning new technologies, dedicating the hours that are necessary and above all working with a team.
+I am an Argentine Developer, 29 years old. I can carry out web projects that are scalable and modularizable to build as a team. I like to be constantly learning new technologies, dedicating the hours that are necessary and above all working with a team.
 
 I consider myself a developer with a great ability to solve problems, and also very curious, and eager to solve any conflict that arises in front of me. I like to teach and above all learn from others.
 
