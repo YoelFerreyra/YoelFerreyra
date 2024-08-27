@@ -53,3 +53,31 @@ I specialize in creating web pages and can work on both the front-end and back-e
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+
+```js
+const EricFerreyra = {
+  role: "Full Stack Developer",
+  technologies: {
+    frontend: "React.js, HTML, CSS, JavaScript, TypeScript",
+    backend: "Node.js, Express.js, MongoDB, PostgreSQL"
+  },
+  experience: "3+ years of experience in designing, developing, and deploying full-stack web applications.",
+  responsibilities: [
+    "Develop and maintain web applications using front-end and back-end technologies.",
+    "Collaborate with cross-functional teams to define, design, and ship new features.",
+    "Optimize applications for maximum speed and scalability.",
+    "Implement security and data protection measures.",
+    "Write clean, maintainable, and efficient code."
+  ],
+  skills: [
+    "Proficient in front-end technologies like React.js and Angular.",
+    "Strong knowledge of back-end frameworks like Node.js and Express.js.",
+    "Experience with database management systems like MongoDB and PostgreSQL.",
+    "Familiarity with version control systems like Git.",
+    "Strong problem-solving skills and attention to detail."
+  ],
+  education: "Bootcamp Henry",
+  location: "Remote or On-site",
+  availability: "Full-time"
+};
+```
