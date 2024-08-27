@@ -54,6 +54,7 @@ I specialize in creating web pages and can work on both the front-end and back-e
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
 
+<div align="left">
 ```js
 const EricFerreyra = {
   role: "Full Stack Developer",
