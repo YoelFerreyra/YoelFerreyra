@@ -15,15 +15,13 @@ I specialize in creating web pages and can work on both the front-end and back-e
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YoelFerreyra&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoelFerreyra&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</div> 
+</div>
 
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com?user=YoelFerreyra&theme=tokyonight_duo&hide_border=true"
 </p>
 
 <div align="center">
-<div align="center">
-
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-yoel-ferreyra-ab5b981bb/)
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yoelferreyra24@gmail.com)](mailto:yoelferreyra24@gmail.com)
 
@@ -53,6 +51,7 @@ I specialize in creating web pages and can work on both the front-end and back-e
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="48" title="Postman">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">
+</div> 
 
 <div align="left">
 ```js
@@ -82,3 +81,4 @@ const EricFerreyra = {
   availability: "Full-time"
 };
 ```
+</div> 
