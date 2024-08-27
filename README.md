@@ -21,7 +21,7 @@ I specialize in creating web pages and can work on both the front-end and back-e
 </p>
 
 <div align="center">
-  [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-yoel-ferreyra-ab5b981bb/)
+  [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-yoel-ferreyra-ab5b981bb/)
   [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yoelferreyra24@gmail.com)](mailto:yoelferreyra24@gmail.com)
 </div>
 
